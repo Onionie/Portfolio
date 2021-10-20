@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: #FEFBF3;
+    font-family: 'Cabin', sans-serif;
+}
+
+h1{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    padding-top: 50px;
+}
+
+#nav{
+    background-color: #F8F0DF;
+}
+
+.nav-link{
+    color: black;
+    font-size: 1.5rem;
+}
+
+.fab{
+    color: black;
+}
+
+a:hover{
+    color: #E2C275;
+}
