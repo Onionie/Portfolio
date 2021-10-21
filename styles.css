@@ -1,13 +1,14 @@
 body{
-    text-align: center;
     background-color: #FEFBF3;
     font-family: 'Cabin', sans-serif;
+    font-size: 1.2rem;
 }
 
-h1{
+.intro{
     font-family: 'Cabin', sans-serif;
     font-weight: 700;
     padding-top: 50px;
+    text-align: center;
 }
 
 #nav{
