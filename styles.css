@@ -5,7 +5,6 @@ body{
 }
 
 .intro{
-    font-family: 'Cabin', sans-serif;
     font-weight: 700;
     padding-top: 50px;
     text-align: center;
@@ -26,4 +25,23 @@ body{
 
 .hover:hover{
     color: #E2C275;
+}
+
+.biofit{
+    border-radius: 5%;
+    width: 90%;
+}
+
+.project h1{
+    text-align: center;
+    margin: 50px;
+    font-weight: bold;
+}
+
+.row{
+    padding-top: 20px;
+}
+
+.container{
+    padding-top: 50px;
 }
