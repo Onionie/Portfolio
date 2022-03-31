@@ -1,6 +1,6 @@
 body {
   background-color: #fefbf3;
-  font-family: "Cabin", sans-serif;
+  font-family: 'Cabin', sans-serif;
   font-size: 1.2rem;
 }
 
@@ -54,4 +54,13 @@ h1 {
 
 .container {
   padding-top: 50px;
+}
+
+.carousel-box {
+  border-radius: 0.5rem;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.1);
+}
+
+.carousel-item {
+  min-height: 300px;
 }
