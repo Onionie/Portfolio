@@ -22,6 +22,11 @@ a {
 .center {
   font-weight: 700;
   text-align: center;
+  justify-content: center;
+}
+
+.margin-bottom {
+  margin-bottom: 2rem;
 }
 
 .nav-link {
@@ -50,6 +55,11 @@ h1 {
 
 .row {
   margin: 20px;
+}
+
+.buttons-box {
+  display: flex;
+  gap: 12px;
 }
 
 .container {
